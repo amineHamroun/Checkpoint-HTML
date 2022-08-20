@@ -1,0 +1,20 @@
+h1{
+    font-family: Helvetica;
+    color: red;
+}
+    h2{
+        font-family: Arial;
+        color: aqua;
+    }
+    h3{
+        font-family: sans-serif;
+        color:brown;
+    }
+    h4{
+        font-family: 'Franklin Gothic Medium';
+        color:bisque;
+    }
+    h5{
+        font-family: 'Arial';
+        color:blueviolet;
+    }
